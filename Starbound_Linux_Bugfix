@@ -1,0 +1,13 @@
+##################################
+#How to avoid Starbound Start-Bug#
+##################################
+
+First Download libsdl
+
+sudo apt-get install libsdl1.2-dev 
+
+Then run Starbound by console
+
+cd .local/share/Steam/steamapps/common/Starbound/linux64/
+./starbound
+
